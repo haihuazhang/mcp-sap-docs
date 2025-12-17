@@ -1,3 +1,4 @@
+import "./lib/consoleToStderr.js";
 import express, { Request, Response } from "express";
 import { randomUUID } from "node:crypto";
 import cors from "cors";

@@ -1,3 +1,4 @@
+import "./lib/consoleToStderr.js";
 import { createServer } from "http";
 import { readFileSync, statSync, existsSync, readdirSync } from "fs";
 import { fileURLToPath } from "url";
