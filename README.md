@@ -25,6 +25,8 @@
 <details>
 <summary><b>编译</b></summary>
 
+> Windows 环境请使用 **Git Bash**（或 WSL）执行下面的命令；不要在 **PowerShell/CMD** 里直接运行 `./setup.sh`（`.sh` 需要 bash）。
+
 ```bash
 # 在仓库根目录执行
 npm ci
